@@ -1,0 +1,31 @@
+body {
+  font-family: 'Nunito', sans-serif;
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+video {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+div.btns {
+  text-align: center;
+  display: block;
+  color: white;
+}
+
+#slow {
+  margin-right: 1.5rem;
+}
+
+#fast {
+  margin-left: 1.5rem;
+}
