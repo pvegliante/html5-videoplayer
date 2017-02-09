@@ -8,6 +8,8 @@ var play = $("#play")[0];
   // v.playbackRate = .5;
   // v.playbackRate = 1.0;
 
+  
+
 $("#fast").click(function() {
   video.playbackRate += .1;
 });
